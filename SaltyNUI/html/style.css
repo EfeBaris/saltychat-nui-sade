@@ -1,0 +1,13 @@
+.efe {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  right: 780px;
+  top: 200px;
+  font-size: 26px;
+  background-color: rgb(36, 36, 36);
+  background-size: 120px;
+  opacity: 80%;
+  border-radius: 10px;
+  padding: 10px;
+  color: white;
+}
